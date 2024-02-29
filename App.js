@@ -9,6 +9,10 @@ export default function App() {
       <Text>Desenvolvimento de Dispositivo Móveis</Text>
       <br></br>
       <Text>22/02/2024</Text>
+      <br></br>
+      <Text>Danilo Lindo</Text>
+      <br></br>
+      <Text>29/02/2024</Text>
       <StatusBar style="auto" />
     </View>
   );
